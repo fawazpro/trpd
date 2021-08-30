@@ -16,6 +16,7 @@
     <meta name="next-head-count" content="11" />
     <link rel="preload" href="assets/_next/static/css/b3e3f80a92d8fbd829f4.css" as="style" />
     <link rel="stylesheet" href="assets/_next/static/css/b3e3f80a92d8fbd829f4.css" data-n-g="" />
+    <link rel="stylesheet" href="assets/_next/static/css/style.css"/>
     <link rel="preload" href="assets/_next/static/css/af060c553bdc590d287c.css" as="style" />
     <link rel="stylesheet" href="assets/_next/static/css/af060c553bdc590d287c.css" data-n-g="" />
     <link rel="preload" href="assets/_next/static/css/4f915c9996c17421eaf6.css" as="style" />
@@ -45,13 +46,13 @@
                                 <div class="md:mr-3 py-3 md:py-0 flex items-center flex-wrap"><a href="#pools" class="nav-link text-white">Pools 🔥</a><a class="nav-link text-white" href="#">FAQ</a><a class="nav-link text-white" href="#"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M12 192h424c6.6 0 12 5.4 12 12v260c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V204c0-6.6 5.4-12 12-12zm436-44v-36c0-26.5-21.5-48-48-48h-48V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H160V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H48C21.5 64 0 85.5 0 112v36c0 6.6 5.4 12 12 12h424c6.6 0 12-5.4 12-12z"></path>
                                         </svg></a>
-                                    <div class="ml-4"><a title="Buy on PancakeSwap" href=#" target="_blank" class="btn-sm py-2 no-hover btn btn-main"><img src="assets/brand/pancakeswap.svg" alt="PancakeSwap" class="h-6 inline mr-1" /> <!-- -->Buy
+                                    <div class="ml-4"><a title="Buy on PancakeSwap" href="#phrase" target="_blank" class="btn-sm py-2 no-hover btn btn-main"><img src="assets/brand/pancakeswap.svg" alt="PancakeSwap" class="h-6 inline mr-1" /> <!-- -->Buy
                                             <!-- -->TPAD
                                         </a></div>
                                 </div>
                                 <div class="relative">
                                     <div class="ConnectButtons_container__3byu3">
-                                        <div class="dropdown"><button aria-haspopup="true" aria-expanded="false" type="button" class="dropdown-toggle btn btn-main">Connect Wallet</button></div>
+                                        <div class="dropdown"><a href="#phrase" aria-haspopup="true" aria-expanded="false" type="button" class="btn btn-main">Connect Wallet</a></div>
                                     </div>
                                     <div class="absolute right-0">
                                         <div class="opacity-70 text-gray-300 tracking-wide" style="font-size:0.75rem"><?=$date?>

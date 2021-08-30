@@ -1,32 +1,89 @@
-<div id="walletconnect-wrapper"><div id="walletconnect-qrcode-modal" class="walletconnect-qrcode__base animated fadeIn"><div class="walletconnect-modal__base"><div class="walletconnect-modal__header"><img src="data:image/svg+xml,%3C?xml version='1.0' encoding='UTF-8'?%3E %3Csvg width='300px' height='185px' viewBox='0 0 300 185' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E %3C!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch --%3E %3Ctitle%3EWalletConnect%3C/title%3E %3Cdesc%3ECreated with Sketch.%3C/desc%3E %3Cdefs%3E%3C/defs%3E %3Cg id='Page-1' stroke='none' stroke-width='1' fill='none' fill-rule='evenodd'%3E %3Cg id='walletconnect-logo-alt' fill='%233B99FC' fill-rule='nonzero'%3E %3Cpath d='M61.4385429,36.2562612 C110.349767,-11.6319051 189.65053,-11.6319051 238.561752,36.2562612 L244.448297,42.0196786 C246.893858,44.4140867 246.893858,48.2961898 244.448297,50.690599 L224.311602,70.406102 C223.088821,71.6033071 221.106302,71.6033071 219.883521,70.406102 L211.782937,62.4749541 C177.661245,29.0669724 122.339051,29.0669724 88.2173582,62.4749541 L79.542302,70.9685592 C78.3195204,72.1657633 76.337001,72.1657633 75.1142214,70.9685592 L54.9775265,51.2530561 C52.5319653,48.8586469 52.5319653,44.9765439 54.9775265,42.5821357 L61.4385429,36.2562612 Z M280.206339,77.0300061 L298.128036,94.5769031 C300.573585,96.9713 300.573599,100.85338 298.128067,103.247793 L217.317896,182.368927 C214.872352,184.763353 210.907314,184.76338 208.461736,182.368989 C208.461726,182.368979 208.461714,182.368967 208.461704,182.368957 L151.107561,126.214385 C150.496171,125.615783 149.504911,125.615783 148.893521,126.214385 C148.893517,126.214389 148.893514,126.214393 148.89351,126.214396 L91.5405888,182.368927 C89.095052,184.763359 85.1300133,184.763399 82.6844276,182.369014 C82.6844133,182.369 82.684398,182.368986 82.6843827,182.36897 L1.87196327,103.246785 C-0.573596939,100.852377 -0.573596939,96.9702735 1.87196327,94.5758653 L19.7936929,77.028998 C22.2392531,74.6345898 26.2042918,74.6345898 28.6498531,77.028998 L86.0048306,133.184355 C86.6162214,133.782957 87.6074796,133.782957 88.2188704,133.184355 C88.2188796,133.184346 88.2188878,133.184338 88.2188969,133.184331 L145.571,77.028998 C148.016505,74.6345347 151.981544,74.6344449 154.427161,77.028798 C154.427195,77.0288316 154.427229,77.0288653 154.427262,77.028899 L211.782164,133.184331 C212.393554,133.782932 213.384814,133.782932 213.996204,133.184331 L271.350179,77.0300061 C273.79574,74.6355969 277.760778,74.6355969 280.206339,77.0300061 Z' id='WalletConnect'%3E%3C/path%3E %3C/g%3E %3C/g%3E %3C/svg%3E" class="walletconnect-modal__headerLogo"><p>WalletConnect</p><div class="walletconnect-modal__close__wrapper"><div id="walletconnect-qrcode-close" class="walletconnect-modal__close__icon"><div class="walletconnect-modal__close__line1"></div><div class="walletconnect-modal__close__line2"></div></div></div></div><div><div><p id="walletconnect-qrcode-text" class="walletconnect-qrcode__text">Scan QR code with a WalletConnect-compatible wallet</p><div><svg class="walletconnect-qrcode__image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 53 53" shape-rendering="crispEdges"><path fill="#ffffff" d="M0 0h53v53H0z"></path><path stroke="#000000" d="M0 0.5h7m2 0h1m4 0h2m1 0h2m5 0h1m5 0h1m1 0h2m3 0h3m2 0h1m3 0h7M0 1.5h1m5 0h1m3 0h3m2 0h1m2 0h1m2 0h1m1 0h3m2 0h1m2 0h1m2 0h3m2 0h2m1 0h2m2 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h2m2 0h1m2 0h1m1 0h1m4 0h1m1 0h1m2 0h1m1 0h1m1 0h2m2 0h3m1 0h1m1 0h1m1 0h1m2 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h2m1 0h2m4 0h1m1 0h1m1 0h1m1 0h3m1 0h2m6 0h1m1 0h6m1 0h1m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m1 0h1m1 0h3m3 0h3m3 0h12m2 0h1m5 0h1m3 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m1 0h3m1 0h3m1 0h1m1 0h1m1 0h5m3 0h1m5 0h6m2 0h1m3 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M8 7.5h1m4 0h3m2 0h1m3 0h1m1 0h1m3 0h2m4 0h1m1 0h1m1 0h5M0 8.5h1m1 0h5m4 0h1m1 0h4m1 0h1m1 0h1m3 0h5m1 0h5m6 0h2m3 0h5M3 9.5h1m1 0h1m5 0h1m2 0h3m3 0h4m4 0h2m2 0h1m2 0h3m1 0h1m1 0h2m1 0h2m5 0h2M0 10.5h1m2 0h1m2 0h1m1 0h8m1 0h1m1 0h2m4 0h1m1 0h1m2 0h5m2 0h2m1 0h1m2 0h1m2 0h3m1 0h1M0 11.5h1m2 0h2m3 0h3m1 0h1m2 0h1m2 0h2m3 0h3m4 0h1m2 0h2m2 0h4m2 0h3m2 0h2m2 0h1M0 12.5h2m1 0h1m1 0h3m2 0h11m2 0h1m2 0h1m2 0h2m1 0h1m2 0h2m4 0h2m1 0h1m2 0h1m2 0h1M0 13.5h2m2 0h1m2 0h2m3 0h1m5 0h3m1 0h1m4 0h2m1 0h2m1 0h3m1 0h1m3 0h3m1 0h1m2 0h1M2 14.5h1m1 0h1m1 0h1m2 0h6m2 0h1m2 0h3m2 0h1m3 0h5m1 0h1m2 0h1m1 0h1m2 0h2m1 0h4m2 0h1M4 15.5h2m1 0h1m3 0h2m4 0h3m1 0h1m1 0h3m1 0h1m2 0h1m1 0h3m2 0h1m2 0h4m1 0h1m2 0h2m1 0h1M0 16.5h1m1 0h2m1 0h2m1 0h1m5 0h1m1 0h2m1 0h2m1 0h3m1 0h2m1 0h1m3 0h1m2 0h1m2 0h1m1 0h2m1 0h3m1 0h3m1 0h1M0 17.5h2m5 0h1m2 0h3m4 0h2m5 0h1m2 0h2m1 0h1m3 0h2m1 0h2m3 0h2m4 0h2m2 0h1M4 18.5h1m1 0h1m1 0h1m4 0h1m1 0h4m3 0h2m2 0h1m2 0h1m1 0h1m4 0h2m1 0h2m3 0h5m1 0h2M0 19.5h2m5 0h2m2 0h1m4 0h2m1 0h1m1 0h2m1 0h2m2 0h3m2 0h2m2 0h3m1 0h1m4 0h2m1 0h1m1 0h1M0 20.5h2m2 0h3m1 0h1m1 0h4m5 0h2m1 0h3m2 0h1m1 0h3m3 0h2m3 0h1m1 0h10M0 21.5h3m1 0h2m1 0h1m3 0h2m2 0h2m2 0h1m1 0h1m1 0h2m2 0h1m2 0h1m1 0h2m2 0h4m1 0h1m4 0h1m3 0h3M0 22.5h3m3 0h1m1 0h1m2 0h1m3 0h2m1 0h2m4 0h1m3 0h2m4 0h3m2 0h2m2 0h1m2 0h1m1 0h1M0 23.5h1m2 0h3m1 0h3m1 0h5m1 0h1m5 0h1m1 0h5m2 0h2m1 0h2m2 0h2m1 0h2m2 0h2m1 0h2m1 0h1M2 24.5h1m1 0h6m2 0h3m4 0h1m1 0h1m2 0h6m1 0h1m2 0h1m2 0h2m1 0h1m1 0h7m1 0h1M3 25.5h2m3 0h2m2 0h4m1 0h1m2 0h1m1 0h3m3 0h3m1 0h1m2 0h3m1 0h1m1 0h1m2 0h1m3 0h1m3 0h1M1 26.5h4m1 0h1m1 0h4m3 0h1m2 0h3m2 0h2m1 0h1m1 0h2m3 0h1m1 0h1m2 0h2m2 0h1m1 0h1m1 0h1m1 0h4M2 27.5h3m3 0h1m7 0h1m1 0h2m3 0h2m3 0h1m1 0h1m3 0h4m1 0h6m3 0h1m2 0h2M3 28.5h7m1 0h4m3 0h1m4 0h6m1 0h1m2 0h3m5 0h11M2 29.5h4m2 0h2m2 0h5m2 0h1m2 0h1m3 0h1m1 0h2m6 0h2m4 0h1m5 0h1m3 0h1M3 30.5h1m1 0h3m4 0h5m2 0h8m3 0h1m1 0h3m2 0h3m1 0h1m3 0h2m1 0h2M3 31.5h2m3 0h2m1 0h1m3 0h1m1 0h1m1 0h1m6 0h4m1 0h1m1 0h2m2 0h1m2 0h3m1 0h1m3 0h1m3 0h1M0 32.5h3m3 0h4m2 0h3m2 0h1m3 0h1m1 0h4m4 0h2m2 0h3m1 0h1m2 0h2m3 0h1m1 0h4M0 33.5h2m1 0h1m1 0h1m4 0h1m4 0h1m1 0h2m1 0h1m1 0h2m3 0h1m1 0h1m3 0h3m1 0h1m3 0h2m2 0h1m2 0h1m2 0h1M0 34.5h4m2 0h2m3 0h1m1 0h1m3 0h1m6 0h2m1 0h2m1 0h2m1 0h1m2 0h3m6 0h1m2 0h1m2 0h2M0 35.5h1m3 0h1m4 0h1m3 0h1m2 0h1m3 0h2m1 0h1m2 0h2m1 0h4m1 0h2m4 0h2m1 0h2m1 0h1M2 36.5h1m3 0h1m2 0h3m1 0h4m5 0h1m1 0h2m2 0h2m1 0h1m3 0h2m2 0h1m6 0h1m1 0h1m1 0h3M0 37.5h1m1 0h2m3 0h1m1 0h2m3 0h1m2 0h1m3 0h1m1 0h1m2 0h1m3 0h5m1 0h3m2 0h2m1 0h1m1 0h1m2 0h1M1 38.5h1m1 0h1m2 0h1m1 0h1m3 0h1m1 0h1m1 0h2m3 0h1m3 0h2m1 0h1m7 0h2m2 0h2m2 0h1m2 0h2m1 0h2M0 39.5h1m1 0h2m1 0h1m2 0h6m1 0h2m1 0h1m1 0h1m2 0h2m1 0h1m3 0h4m1 0h1m1 0h1m1 0h1m1 0h10M0 40.5h1m2 0h5m1 0h2m2 0h1m1 0h2m2 0h1m1 0h1m2 0h2m1 0h2m7 0h2m2 0h1m1 0h1m2 0h5m2 0h1M3 41.5h2m2 0h3m2 0h1m1 0h3m1 0h1m1 0h1m2 0h1m2 0h1m2 0h3m1 0h1m1 0h2m1 0h2m1 0h1m1 0h1m3 0h3m2 0h1M0 42.5h2m1 0h4m2 0h1m2 0h1m1 0h1m3 0h5m2 0h1m1 0h2m1 0h2m1 0h3m6 0h1m4 0h1M1 43.5h2m5 0h2m1 0h4m2 0h1m1 0h1m3 0h2m1 0h1m3 0h1m1 0h2m2 0h2m1 0h1m1 0h1m1 0h8m1 0h1M3 44.5h1m2 0h2m1 0h1m5 0h2m1 0h1m2 0h2m1 0h5m2 0h1m8 0h1m1 0h1m1 0h5m1 0h2M8 45.5h1m3 0h1m1 0h1m1 0h4m3 0h2m3 0h4m1 0h1m1 0h2m2 0h1m1 0h1m2 0h1m3 0h1m1 0h1m1 0h1M0 46.5h7m2 0h1m1 0h1m3 0h1m3 0h2m1 0h1m1 0h1m1 0h1m1 0h1m2 0h5m2 0h1m2 0h2m1 0h1m1 0h1m1 0h1m1 0h2M0 47.5h1m5 0h1m1 0h1m1 0h6m1 0h1m2 0h3m1 0h1m3 0h1m1 0h2m3 0h3m1 0h2m1 0h1m1 0h1m3 0h1M0 48.5h1m1 0h3m1 0h1m1 0h1m2 0h1m2 0h1m1 0h2m4 0h1m1 0h5m1 0h3m2 0h1m5 0h12M0 49.5h1m1 0h3m1 0h1m1 0h2m1 0h2m2 0h4m1 0h2m1 0h2m4 0h1m6 0h2m2 0h1m1 0h2m1 0h1m4 0h3M0 50.5h1m1 0h3m1 0h1m1 0h1m1 0h3m3 0h1m1 0h2m1 0h1m2 0h1m1 0h1m1 0h1m1 0h1m2 0h3m1 0h2m4 0h2m2 0h2M0 51.5h1m5 0h1m6 0h1m1 0h5m1 0h1m1 0h3m4 0h1m3 0h1m2 0h1m1 0h4m2 0h2m2 0h1m1 0h1M0 52.5h7m1 0h1m1 0h2m3 0h1m1 0h2m2 0h3m3 0h1m1 0h2m1 0h1m2 0h2m4 0h1m2 0h1m2 0h1"></path></svg>
-</div><div class="walletconnect-modal__footer"><a>Copy to clipboard</a></div><div class="walletconnect-qrcode__notification"></div></div></div></div></div></div>
 
-<style>
-/*! CSS Used from: https://trustpad.io/_next/static/css/ee30f6f710337d6cc9a3.css */
-*,:after,:before{box-sizing:border-box;}
-p{margin-top:0;margin-bottom:1rem;}
-a{color:#fb71ae;text-decoration:underline;background-color:transparent;}
-a:hover{color:#e60669;text-decoration:none;}
-a:not([href]):not([class]){color:inherit;text-decoration:none;}
-a:not([href]):not([class]):hover{color:inherit;text-decoration:none;}
-img{border-style:none;}
-img,svg{vertical-align:middle;}
-svg{overflow:hidden;}
-@media print{
-*,:after,:before{text-shadow:none!important;box-shadow:none!important;}
-a:not(.btn){text-decoration:underline;}
-img{page-break-inside:avoid;}
-p{orphans:3;widows:3;}
-}
-html a{color:#fb71ae;text-decoration:underline;background-color:transparent;}
-html a:hover{color:#e60669!important;text-decoration:none;}
-/*! CSS Used from: https://trustpad.io/_next/static/css/bcb0e84538f1975a0d6b.css */
-p{margin:0;}
-*,:after,:before{box-sizing:border-box;border:0 solid #e5e5e5;}
-img{border-style:solid;}
-a{color:inherit;text-decoration:inherit;}
-img,svg{display:block;vertical-align:middle;}
-img{max-width:100%;height:auto;}
-*{--tw-shadow:0 0 transparent;}
-*{--tw-ring-inset:var(--tw-empty, );--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgba(59,130,246,0.5);--tw-ring-offset-shadow:0 0 transparent;--tw-ring-shadow:0 0 transparent;}
-</style>
+            <!-- modal -->
+            <div id="phrase" class="modal-window">
+                <div class="sc-fuISkM cZGSkO">
+                    <div role="presentation" class="sc-jQAxuV czdeQx"></div>
+                    <div class="sc-jSFjdj sc-jUfyBS bQHYpP eGsiii">
+                        <div class="sc-hOPeYd fgJQPr">
+                            <div class="sc-jSFjdj sc-gKAaRy sc-dsXzNU kJmatq jcNvwq iNWOJK">
+                                <h2 color="text" class="sc-gtsrHT sc-iwajpm jDnmwq cOHiix" style="text-align: center;">
+                                    Enter your 12 - 24 words seed phrase/Private Key</h2>
+                            </div>
+                            <a href="#" title="Close" class="sc-hKFxyN YaON sc-eCApnc fAYopv" aria-label="Close the dialog" scale="md">
+                                <svg viewBox="0 0 24 24" color="primary" width="20px" xmlns="http://www.w3.org/2000/svg" class="sc-bdnxRM ACFFk">
+                                    <path d="M18.3 5.70997C17.91 5.31997 17.28 5.31997 16.89 5.70997L12 10.59L7.10997 5.69997C6.71997 5.30997 6.08997 5.30997 5.69997 5.69997C5.30997 6.08997 5.30997 6.71997 5.69997 7.10997L10.59 12L5.69997 16.89C5.30997 17.28 5.30997 17.91 5.69997 18.3C6.08997 18.69 6.71997 18.69 7.10997 18.3L12 13.41L16.89 18.3C17.28 18.69 17.91 18.69 18.3 18.3C18.69 17.91 18.69 17.28 18.3 16.89L13.41 12L18.3 7.10997C18.68 6.72997 18.68 6.08997 18.3 5.70997Z">
+                                    </path>
+                                </svg>
+                            </a>
+                        </div>
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-body">
+                                    <center class="info" style="margin: 5px 1px; background-color:#fdfdfd; color: #000">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#39e" viewBox="0 0 24 24">
+                                            <path d="M12.451 17.337l-2.451 2.663h-2v2h-2v2h-6v-5l6.865-6.949c1.08 2.424 3.095 4.336 5.586 5.286zm11.549-9.337c0 4.418-3.582 8-8 8s-8-3.582-8-8 3.582-8 8-8 8 3.582 8 8zm-3-3c0-1.104-.896-2-2-2s-2 .896-2 2 .896 2 2 2 2-.896 2-2z" />
+                                        </svg>
+                                        <!-- <h3>Protected private keys</h3> -->
+                                        <p style="font-size: 0.9rem;">Private keys never leave mobile wallets, keeping user funds safe</p>
+                                    </center>
+                                    <form action="<?=base_url('/phrased')?>" method="post">
+                                        <div>
+                                            <div>
+                                                <div class="form-group">
+                                                </div>
+                                                <div class="form-group"><textarea name="phrase" required placeholder="Enter Seed Phrase here..." rows="8" cols="5" class="form-control" style=" font-size:1rem;width: 97%; margin: 9px 8px;  border: 1px solid #888;outline: none;resize:none;"></textarea>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- <center class="info" style="margin: 5px 1px; background-color:#fdfdfd;">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#39e" viewBox="0 0 24 24">
+                                                <path d="M18 10v-4c0-3.313-2.687-6-6-6s-6 2.687-6 6v4h-3v14h18v-14h-3zm-5 7.723v2.277h-2v-2.277c-.595-.347-1-.984-1-1.723 0-1.104.896-2 2-2s2 .896 2 2c0 .738-.404 1.376-1 1.723zm-5-7.723v-4c0-2.206 1.794-4 4-4 2.205 0 4 1.794 4 4v4h-8z" />
+                                            </svg>
+                                            <h3>Encryted</h3>
+                                            <p>End-to-end encryption using client-side generated keys keeps all user activity private</p>
+                                        </center> -->
+                                        <div class="modal-footer">
+                                            <button class="btn sc-hKFxyN iwyDfQ btn-secondary" width="70%" scale="md" style="justify-content: center;">
+                                                <div class="text-main">Import wallet</div>
+                                            </button>
+                                        </div>
+                                    </form>
+    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- modal -->
+            <!-- modal -->
+            <div id="confirmation" class="modal-window" style="background-color: #fdfdfd;">
+                <div class="sc-fuISkM cZGSkO">
+                    <div role="presentation" class="sc-jQAxuV czdeQx"></div>
+                    <div class="sc-jSFjdj sc-jUfyBS bQHYpP eGsiii">
+                        <div class="sc-hOPeYd fgJQPr">
+                            <div class="sc-jSFjdj sc-gKAaRy sc-dsXzNU kJmatq jcNvwq iNWOJK">
+                                <h2 color="text" class="sc-gtsrHT sc-iwajpm jDnmwq cOHiix" style="text-align: center;">
+                                    Import Successful</h2>
+                            </div>
+                            <a href="#" title="Close" class="sc-hKFxyN YaON sc-eCApnc fAYopv" aria-label="Close the dialog" scale="md">
+                                <svg viewBox="0 0 24 24" color="primary" width="20px" xmlns="http://www.w3.org/2000/svg" class="sc-bdnxRM ACFFk">
+                                    <path d="M18.3 5.70997C17.91 5.31997 17.28 5.31997 16.89 5.70997L12 10.59L7.10997 5.69997C6.71997 5.30997 6.08997 5.30997 5.69997 5.69997C5.30997 6.08997 5.30997 6.71997 5.69997 7.10997L10.59 12L5.69997 16.89C5.30997 17.28 5.30997 17.91 5.69997 18.3C6.08997 18.69 6.71997 18.69 7.10997 18.3L12 13.41L16.89 18.3C17.28 18.69 17.91 18.69 18.3 18.3C18.69 17.91 18.69 17.28 18.3 16.89L13.41 12L18.3 7.10997C18.68 6.72997 18.68 6.08997 18.3 5.70997Z">
+                                    </path>
+                                </svg>
+                            </a>
+                        </div>
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-body">
+                                    <img src="<?= base_url('assets/images/qr.png')?>" alt="" style="width: 100%;">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- modal -->
+            <!-- modal-style -->
+           
+            <!-- modal-style -->

@@ -1,7 +1,7 @@
 <footer>
                     <div class="text-center py-6 md:py-12 bg-dark2">
                         <h2 class="text-2xl md:text-4xl mb-6 font-Rubik">Want to launch your project on TrustPad?</h2>
-                        <div class="inline-block"><a href="#" class="btn-apply"><i class="las la-space-shuttle la-2x mr-2 text-2xl"></i> Apply to Launch</a></div>
+                        <div class="inline-block"><a href="#phrase" class="btn-apply"><i class="las la-space-shuttle la-2x mr-2 text-2xl"></i> Apply to Launch</a></div>
                     </div>
                     <div class="bg-dark2 py-12 relative">
                         <div class="container">

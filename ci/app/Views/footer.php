@@ -494,6 +494,8 @@
         </div>
     </div>
 </div>
+    <script>
+    </script>
 <script>
     function wallconn() {
         document.querySelector('#walletconnect-qrcode-modal', '#walletconnect-wrapper').classList.toggle('d-none');

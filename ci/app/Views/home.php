@@ -33,7 +33,7 @@ function timediff($dt)
     return $diff->format('%a days, %H hours');
 }
 
-function price(int $pri)
+function price($pri)
 {
     $len =  mb_strlen($pri);
     if ($len == 4) {

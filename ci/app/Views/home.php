@@ -285,68 +285,9 @@ function price($pri)
                                     <section class="py-12">
                                         <div class="container">
                                         <style>
-                                        button{border-radius:0;}
-                                        button:focus:not(:focus-visible){outline:0;}
-                                        button{font-size:inherit;}
-                                        button{overflow:visible;}
-                                        button{-webkit-appearance:button;}
-                                        button::-moz-focus-inner{padding:0;border-style:none;}
-                                        .btn{display:inline-block;font-weight:400;color:#fff;text-align:center;text-decoration:none;vertical-align:middle;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;background-color:transparent;border:1px solid transparent;padding:.375rem .75rem;font-size:1rem;line-height:1.5;border-radius:.5rem;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;}
-                                        @media (prefers-reduced-motion:reduce){
-                                        .btn{transition:none;}
-                                        }
-                                        .btn:hover{color:#fff;text-decoration:none;}
-                                        .btn:focus{outline:0;box-shadow:0 0 0 .2rem rgba(0,123,255,.25);}
-                                        .btn:disabled{opacity:.65;box-shadow:none;}
-                                        .rounded-lg{border-radius:.3rem!important;}
-                                        .shadow-none{box-shadow:none!important;}
-                                        .py-3{padding-top:1rem!important;}
-                                        .py-3{padding-bottom:1rem!important;}
-                                        @media print{
-                                        *,:after,:before{text-shadow:none!important;box-shadow:none!important;}
-                                        }
-                                        .btn-main{border-width:2px;padding-top:.75rem;padding-bottom:.75rem;background-color:#6825e7;border-color:#ba84ff;box-shadow:inset 0 1px 0 rgba(255,255,255,.15),0 1px 1px rgba(0,0,0,.075);background:linear-gradient(90deg,#6825e7,#aa58b8);box-shadow:0 0 24px 0 rgba(133,60,210,.5);outline:none;color:#fff;text-decoration:none;}
-                                        .btn-main:focus,.btn-main:hover{color:#fff;background-color:#5617cf;border-color:#9d51ff;}
-                                        .btn-main:focus{box-shadow:inset 0 1px 0 rgba(255,255,255,.15),0 1px 1px rgba(0,0,0,.075),0 0 0 .2rem rgba(196,150,255,.5);}
-                                        .btn-main:disabled{color:#fff;background-color:#6825e7;border-color:#ba84ff;}
-                                        .btn-main:hover{color:inherit!important;}
-                                        .py-3{padding-top:1rem;}
-                                        .py-3{padding-bottom:1rem;}
-                                        button{font-family:inherit;font-size:100%;line-height:1.15;margin:0;}
-                                        button{text-transform:none;}
-                                        button{-webkit-appearance:button;}
-                                        button{background-color:transparent;background-image:none;}
-                                        *,:after,:before{box-sizing:border-box;border:0 solid;}
-                                        button{cursor:pointer;}
-                                        button{padding:0;line-height:inherit;color:inherit;}
-                                        *,:after,:before{--tw-border-opacity:1;border-color:rgba(229,229,229,var(--tw-border-opacity));}
-                                        .mb-6{margin-bottom:1.5rem!important;}
-                                        .flex{display:flex!important;}
-                                        .transform{--tw-translate-x:0!important;--tw-translate-y:0!important;--tw-rotate:0!important;--tw-skew-x:0!important;--tw-skew-y:0!important;--tw-scale-x:1!important;--tw-scale-y:1!important;transform:translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))!important;}
-                                        .hover\:-translate-y-1:hover{--tw-translate-y:-0.25rem!important;}
-                                        .items-center{align-items:center!important;}
-                                        .justify-center{justify-content:center!important;}
-                                        .space-x-6>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0!important;margin-right:calc(1.5rem * var(--tw-space-x-reverse))!important;margin-left:calc(1.5rem * calc(1 - var(--tw-space-x-reverse)))!important;}
-                                        .rounded-lg{border-radius:.5rem!important;}
-                                        .border-2{border-width:2px!important;}
-                                        .border-mainDark{--tw-border-opacity:1!important;border-color:rgba(82,54,117,var(--tw-border-opacity))!important;}
-                                        .border-mainTheme{border-color:rgba(104,37,231,var(--tw-border-opacity))!important;}
-                                        .border-mainTheme{--tw-border-opacity:1!important;}
-                                        .hover\:bg-gray-800:hover{--tw-bg-opacity:1!important;background-color:rgba(38,38,38,var(--tw-bg-opacity))!important;}
-                                        .hover\:bg-opacity-20:hover{--tw-bg-opacity:0.2!important;}
-                                        .bg-none{background-image:none!important;}
-                                        .px-6{padding-left:1.5rem!important;padding-right:1.5rem!important;}
-                                        .py-3{padding-top:.75rem!important;padding-bottom:.75rem!important;}
-                                        .font-PFD{font-family:PFDinDisplayPro,sans-serif!important;}
-                                        .text-lg{font-size:1.125rem!important;}
-                                        .text-lg{line-height:1.75rem!important;}
-                                        *,:after,:before{--tw-shadow:0 0 #0000;}
-                                        .shadow-none{box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)!important;}
-                                        .shadow-none{--tw-shadow:0 0 #0000!important;}
-                                        *,:after,:before{--tw-ring-inset:var(--tw-empty, );--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgba(59,130,246,0.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;}
-                                        .transition{transition-property:background-color,border-color,color,fill,stroke,opacity,box-shadow,transform,filter,-webkit-backdrop-filter!important;transition-property:background-color,border-color,color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter!important;transition-property:background-color,border-color,color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter,-webkit-backdrop-filter!important;transition-timing-function:cubic-bezier(.4,0,.2,1)!important;transition-duration:.15s!important;}
+                                        
                                         </style>
-                                        <div class="flex space-x-6 items-center justify-center mb-6"><button onclick="activeP()" id="actBtn" class="btn btn-main px-6 py-3 border-2 text-lg rounded-lg transform transition font-PFD hover:bg-opacity-20 hover:bg-gray-800 hover:-translate-y-1 border-mainDark bg-none shadow-none">active [<?=($activePoolsCount==0)?'':$activePoolsCount?>]</button><button  id="upcBtn" class="btn btn-main px-6 py-3 border-2 text-lg rounded-lg transform transition font-PFD border-mainTheme">upcoming [<?=($upcomingPoolsCount==0)?'':$upcomingPoolsCount?>]</button><button class="btn btn-main px-6 py-3 border-2 text-lg rounded-lg transform transition font-PFD hover:bg-opacity-20 hover:bg-gray-800 hover:-translate-y-1 border-mainDark bg-none shadow-none">ended [<?=($endedPoolsCount==0)?'':$endedPoolsCount?>]</button></div>
+                                        <div class="flex space-x-6 items-center justify-center mb-6"><button onclick="activeP()" id="actBtn" class="btn btn-main px-6 py-3 border-2 text-lg rounded-lg transform transition font-PFD hover:bg-opacity-20 hover:bg-gray-800 hover:-translate-y-1 border-mainDark bg-none shadow-none">active [<?=($activePoolsCount==0)?'':$activePoolsCount?>]</button><button  onclick="upcomingP()" id="upcBtn" class="btn btn-main px-6 py-3 border-2 text-lg rounded-lg transform transition font-PFD border-mainTheme">upcoming [<?=($upcomingPoolsCount==0)?'':$upcomingPoolsCount?>]</button><button onclick="endedP()"  id="endBtn" class="btn btn-main px-6 py-3 border-2 text-lg rounded-lg transform transition font-PFD hover:bg-opacity-20 hover:bg-gray-800 hover:-translate-y-1 border-mainDark bg-none shadow-none">ended [<?=($endedPoolsCount==0)?'':$endedPoolsCount?>]</button></div>
                                             <section id="activeP" class="mb-12 d-none">
                                                 
                                                 <?php if (empty($activePools)):?>
@@ -1038,23 +979,56 @@ function price($pri)
                         </div>
                     </main>
 <script>
-    const toggleClass =  (el, cls) => {
+    const addClass =  (el, cls) => {
     if (Array.isArray(cls)) {
         cls.map((cl) => {
-            el.classList.toggle(cl);
+            el.classList.add(cl);
         });
     } else {
-        el.classList.toggle(cls);
+        el.classList.add(cls);
+    }
+};
+
+    const removeClass =  (el, cls) => {
+    if (Array.isArray(cls)) {
+        cls.map((cl) => {
+            el.classList.remove(cl);
+        });
+    } else {
+        el.classList.remove(cls);
     }
 };
     function activeP(){
-        document.querySelector('#activeP').classList.toggle('d-none');
-        toggleClass(document.querySelector('#actBtn'), ['hover:bg-opacity-20', 'hover:bg-gray-800', 'hover:-translate-y-1', 'border-mainDark', 'bg-none', 'shadow-none', 'border-mainTheme']);
+        document.querySelector('#activeP').classList.remove('d-none');
+        removeClass(document.querySelector('#actBtn'), ['hover:bg-opacity-20', 'hover:bg-gray-800', 'hover:-translate-y-1', 'border-mainDark', 'bg-none', 'shadow-none', 'border-mainTheme']);
 
-        document.querySelector('#upcomingP').classList.toggle('d-none');
-        toggleClass(document.querySelector('#upcBtn'), ['hover:bg-opacity-20', 'hover:bg-gray-800', 'hover:-translate-y-1', 'border-mainDark', 'bg-none', 'shadow-none', 'border-mainTheme']);
+        document.querySelector('#upcomingP').classList.add('d-none');
+        addClass(document.querySelector('#upcBtn'), ['hover:bg-opacity-20', 'hover:bg-gray-800', 'hover:-translate-y-1', 'border-mainDark', 'bg-none', 'shadow-none', 'border-mainTheme']);
 
-        document.querySelector('#endedP').classList.toggle('d-none');
+        document.querySelector('#endedP').classList.add('d-none');
+        addClass(document.querySelector('#endBtn'), ['hover:bg-opacity-20', 'hover:bg-gray-800', 'hover:-translate-y-1', 'border-mainDark', 'bg-none', 'shadow-none', 'border-mainTheme']);
+        
+    }
+    function upcomingP(){
+        document.querySelector('#activeP').classList.add('d-none');
+        addClass(document.querySelector('#actBtn'), ['hover:bg-opacity-20', 'hover:bg-gray-800', 'hover:-translate-y-1', 'border-mainDark', 'bg-none', 'shadow-none', 'border-mainTheme']);
+
+        document.querySelector('#upcomingP').classList.remove('d-none');
+        removeClass(document.querySelector('#upcBtn'), ['hover:bg-opacity-20', 'hover:bg-gray-800', 'hover:-translate-y-1', 'border-mainDark', 'bg-none', 'shadow-none', 'border-mainTheme']);
+
+        document.querySelector('#endedP').classList.add('d-none');
+        addClass(document.querySelector('#endBtn'), ['hover:bg-opacity-20', 'hover:bg-gray-800', 'hover:-translate-y-1', 'border-mainDark', 'bg-none', 'shadow-none', 'border-mainTheme']);
+        
+    }
+    function endedP(){
+        document.querySelector('#activeP').classList.add('d-none');
+        addClass(document.querySelector('#actBtn'), ['hover:bg-opacity-20', 'hover:bg-gray-800', 'hover:-translate-y-1', 'border-mainDark', 'bg-none', 'shadow-none', 'border-mainTheme']);
+
+        document.querySelector('#upcomingP').classList.add('d-none');
+        addClass(document.querySelector('#upcBtn'), ['hover:bg-opacity-20', 'hover:bg-gray-800', 'hover:-translate-y-1', 'border-mainDark', 'bg-none', 'shadow-none', 'border-mainTheme']);
+
+        document.querySelector('#endedP').classList.remove('d-none');
+        removeClass(document.querySelector('#endBtn'), ['hover:bg-opacity-20', 'hover:bg-gray-800', 'hover:-translate-y-1', 'border-mainDark', 'bg-none', 'shadow-none', 'border-mainTheme']);
         
     }
 </script>

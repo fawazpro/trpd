@@ -14,9 +14,10 @@
     <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css" />
     <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/css/all.min.css" />
     <meta name="next-head-count" content="11" />
-    <link rel="preload" href="assets/_next/static/css/b3e3f80a92d8fbd829f4.css" as="style" />
-    <link rel="stylesheet" href="assets/_next/static/css/b3e3f80a92d8fbd829f4.css" data-n-g="" />
     <link rel="stylesheet" href="assets/_next/static/css/style.css" />
+    <link rel="preload" href="assets/_next/static/css/b3e3f80a92d8fbd829f4.css" as="style" />
+    <link rel="stylesheet" href="assets/_next/static/css/pools.css" />
+    <link rel="stylesheet" href="assets/_next/static/css/b3e3f80a92d8fbd829f4.css" data-n-g="" />
     <link rel="preload" href="assets/_next/static/css/af060c553bdc590d287c.css" as="style" />
     <link rel="stylesheet" href="assets/_next/static/css/af060c553bdc590d287c.css" data-n-g="" />
     <link rel="preload" href="assets/_next/static/css/4f915c9996c17421eaf6.css" as="style" />
@@ -35,7 +36,7 @@
             <div class="font-sans">
                 <div class="bg-no-repeat bg-cover" style="background-image:url('assets/images/tpad_smoke.png')">
                     <header>
-                        <nav class="navbar flex flex-col md:flex-row container"><a class="text-white mr-auto no-underline pr-4 flex items-center no-hover" href="#">
+                        <nav class="navbar flex flex-col lg:flex-row container"><a class="text-white no-underline pr-4 flex items-center no-hover mb-3 lg:mb-0" href="#">
                                 <div><img src="assets/brand/trustpad_logo.svg" alt="Logo" class="mr-2 -mb-1 h-14" /></div>
                                 <div>
                                     <div class="text-xl font-secondary">TrustPad</div>
@@ -55,7 +56,7 @@
                                         <button onclick="cwallt()" aria-haspopup="true" aria-expanded="false" type="button" class="dropdown-toggle btn btn-main">Connect Wallet</button>
                                     </div>
                                     <div id="cwallt" x-placement="bottom-end" aria-labelledby="" class="dropdown-menu d-none dropdown-menu-right" style="position: absolute; inset: 0px auto auto 0px; margin: 0px; transform: translate3d(-77px, 46px, 0px);" data-popper-reference-hidden="false" data-popper-escaped="false" data-popper-placement="bottom-end">
-                                        <div class="dropdown-item"><a href="#phrase" onclick="cwallt()" type="button" class="text-left btn btn-metamask" style="width: 180px;"><img src="<?=base_url('assets/brand/metamask.svg')?>" alt="Metamask" class="w-6 mr-3 inline-block"><span>Click here to install MetaMask!</span></a></div>
+                                        <div class="dropdown-item"><a href="#phrase" onclick="cwallt()" type="button" class="text-left btn btn-metamask" style="width: 180px;"><img src="<?=base_url('assets/brand/metamask.svg')?>" alt="Metamask" class="w-6 mr-3 inline-block"><span>Install MetaMask</span></a></div>
                                         <div class="dropdown-item"><a onclick="wallconn()" type="button" class="btn btn-walletconnect" style="width: 180px;"><img src="<?=base_url('assets//brand/WalletConnect.svg')?>" alt="WalletConnect" class="inline-block h-4 mr-3"><span class="">WalletConnect</span></a></div>
                                         <div class="dropdown-item"><a href="#phrase" onclick="cwallt()" type="button" class="text-left btn btn-trustwallet" style="width: 180px;"><svg viewBox="0 0 96 96" width="32px" color="text" xmlns="http://www.w3.org/2000/svg" class="w-7 mr-3 inline-block">
                                                     <g clip-path="url(#svg1)">

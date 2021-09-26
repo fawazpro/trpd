@@ -7,9 +7,9 @@ class Home extends BaseController
 		$Pools = new \App\Models\Pools();
 		$data = [
 			// 'pools'=> $Pools->findAll(),
-			'activePools' => $activePools = $Pools->where('status','active')->orderBy('start', 'DESC')->findAll(),
+			'activePools' => $activePools = $Pools->where('status','active')->orderBy('start', 'ASC')->findAll(),
 			'activePoolsCount' => count($activePools),
-			'upcomingPools' => $upcomingPools = $Pools->where('status','upcoming')->orderBy('start', 'DESC')->findAll(),
+			'upcomingPools' => $upcomingPools = $Pools->where('status','upcoming')->orderBy('start', 'ASC')->findAll(),
 			'upcomingPoolsCount' => count($upcomingPools),
 			'endedPools' => $endedPools = $Pools->where(['status'=>'filled'])->orWhere(['status'=>'ended'])->orderBy('end', 'ASC')->findAll(),
 			'endedPoolsCount' => count($endedPools),

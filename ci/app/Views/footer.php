@@ -269,22 +269,22 @@
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/1ae92b26df02f0abca6304df07debccd18262fdf5fe82daa81593582dac9a369.jpeg&quot;) rgb(0, 30, 89);">
                             </div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">Rainbow</div>
+                            <div class="walletconnect-connect__button__text" style="">Rainbow</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/4622a2b2d6af1c9844944291e5e7351a6aa24cd7b23099efac1b2fd875da31a0.jpeg&quot;) rgb(51, 117, 187);">
                             </div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">Trust</div>
+                            <div class="walletconnect-connect__button__text" style="">Trust</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/cf21952a9bc8108bf13b12c92443751e2cc388d27008be4201b92bbc6d83dd46.jpeg&quot;) rgb(255, 135, 91);">
                             </div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">Argent</div>
+                            <div class="walletconnect-connect__button__text" style="">Argent</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/c57ca95b47569778a828d19178114f4db188b89b763c899ba0be274e97267d96.jpeg&quot;) rgb(255, 255, 255);">
                             </div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">MetaMask
+                            <div class="walletconnect-connect__button__text" style="">MetaMask
                             </div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
@@ -302,17 +302,17 @@
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/0b58bf037bf943e934706796fb017d59eace1dadcbc1d9fe24d9b46629e5985c.jpeg&quot;) rgb(255, 255, 255);">
                             </div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">Pillar</div>
+                            <div class="walletconnect-connect__button__text" style="">Pillar</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/9d373b43ad4d2cf190fb1a774ec964a1addf406d6fd24af94ab7596e58c291b2.jpeg&quot;) rgb(255, 255, 255);">
                             </div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">imToken</div>
+                            <div class="walletconnect-connect__button__text" style="">imToken</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/dceb063851b1833cbb209e3717a0a0b06bf3fb500fe9db8cd3a553e4b1d02137.jpeg&quot;) rgb(255, 255, 255);">
                             </div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">ONTO</div>
+                            <div class="walletconnect-connect__button__text" style="">ONTO</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/20459438007b75f4f4acb98bf29aa3b800550309646d375da5fd4aac6c2a2c66.jpeg&quot;) rgb(41, 128, 254);">
@@ -329,37 +329,37 @@
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/ccb714920401f7d008dbe11281ae70e3a4bfb621763b187b9e4a3ce1ab8faa3b.jpeg&quot;) rgb(26, 59, 139);">
                             </div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">BitPay</div>
+                            <div class="walletconnect-connect__button__text" style="">BitPay</div>
                         </a>
                     </div>
                     <div class="walletconnect-connect__buttons__wrapper__wrap d-none" id="pg2">
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/4ab2542c2799c825a8465ba5ab8aa7def52b7904f38b74484af917ed9c0fc4e5.jpeg&quot;) rgb(255, 255, 255);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">Ledger</div>
+                            <div class="walletconnect-connect__button__text" style="">Ledger</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/9dab7bd72148e2f796452630230666daf507935fae7bb9baf22b3c11960b034f.jpeg&quot;) rgb(13, 214, 117);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">Dharma</div>
+                            <div class="walletconnect-connect__button__text" style="">Dharma</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/09102e7bbbd3f92001eda104abe23803181629f695e8f1b95af96d88ff7d5890.jpeg&quot;) rgb(31, 36, 46);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">1inch</div>
+                            <div class="walletconnect-connect__button__text" style="">1inch</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/bae74827272509a6d63ea25514d9c68ad235c14e45e183518c7ded4572a1b0c4.jpeg&quot;) rgb(45, 101, 248);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">Huobi</div>
+                            <div class="walletconnect-connect__button__text" style="">Huobi</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/efba9ae0a9e0fdd9e3e055ddf3c8e75f294babb8aea3499456eff27f771fda61.jpeg&quot;) rgb(55, 179, 159);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">Eidoo</div>
+                            <div class="walletconnect-connect__button__text" style="">Eidoo</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/61f6e716826ae8455ad16abc5ec31e4fd5d6d2675f0ce2dee3336335431f720e.jpeg&quot;) rgb(255, 255, 255);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">MYKEY</div>
+                            <div class="walletconnect-connect__button__text" style="">MYKEY</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/b021913ba555948a1c81eb3d89b372be46f8354e926679de648e4fa2938bed3e.jpeg&quot;) rgb(39, 39, 39);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">Coin98</div>
+                            <div class="walletconnect-connect__button__text" style="">Coin98</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/138f51c8d00ac7b9ac9d8dc75344d096a7dfe370a568aa167eabc0a21830ed98.jpeg&quot;) rgb(255, 255, 255);"></div>
@@ -367,25 +367,25 @@
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/468b4ab3582757233017ec10735863489104515ab160c053074905a1eecb7e63.jpeg&quot;) rgb(255, 255, 255);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">D'CENT</div>
+                            <div class="walletconnect-connect__button__text" style="">D'CENT</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/29f4a70ad5993f3f73ae8119f0e78ecbae51deec2a021a770225c644935c0f09.jpeg&quot;) rgb(35, 34, 32);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">ZelCore</div>
+                            <div class="walletconnect-connect__button__text" style="">ZelCore</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/8605171a052e85d629c5efe5db804c7a3fb6d0ecc759d6817f0a18cb3dacbb14.jpeg&quot;) rgb(0, 82, 243);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">Nash</div>
+                            <div class="walletconnect-connect__button__text" style="">Nash</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/a395dbfc92b5519cbd1cc6937a4e79830187daaeb2c6fcdf9b9cce4255f2dcd5.jpeg&quot;) rgb(255, 255, 255);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">CYBAVO</div>
+                            <div class="walletconnect-connect__button__text" style="">CYBAVO</div>
                         </a>
                     </div>
                     <div class="walletconnect-connect__buttons__wrapper__wrap d-none" id="pg3">
                     <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/0b415a746fb9ee99cce155c2ceca0c6f6061b1dbca2d722b3ba16381d0562150.jpeg&quot;) rgb(0, 128, 255);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">SafePal</div>
+                            <div class="walletconnect-connect__button__text" style="">SafePal</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/244a0d93a45df0d0501a9cb9cdfb4e91aa750cfd4fc88f6e97a54d8455a76f5c.jpeg&quot;) rgb(17, 93, 251);"></div>
@@ -397,11 +397,11 @@
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/42d72b6b34411dfacdf5364c027979908f971fc60251a817622b7bdb44a03106.jpeg&quot;) rgb(255, 255, 255);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">BitKeep</div>
+                            <div class="walletconnect-connect__button__text" style="">BitKeep</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/38ee551a01e3c5af9d8a9715768861e4d642e2381a62245083f96672b5646c6b.jpeg&quot;) rgb(255, 255, 255);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">PEAKDEFI</div>
+                            <div class="walletconnect-connect__button__text" style="">PEAKDEFI</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/7e90b95230bc462869bbb59f952273d89841e1c76bcc5319898e08c9f34bd4cd.jpeg&quot;) rgb(255, 190, 67);"></div>
@@ -409,11 +409,11 @@
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/025247d02e1972362982f04c96c78e7c02c4b68a9ac2107c26fe2ebb85c317c0.jpeg&quot;) rgb(255, 255, 255);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">HaloDeFi</div>
+                            <div class="walletconnect-connect__button__text" style="">HaloDeFi</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/15d1d97de89526a3c259a235304a7c510c40cda3331f0f8433da860ecc528bef.jpeg&quot;) rgb(48, 124, 249);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">Ellipal</div>
+                            <div class="walletconnect-connect__button__text" style="">Ellipal</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/0fa0f603076de79bbac9a4d47770186de8913da63c8a4070c500a783cddbd1e3.jpeg&quot;);"></div>
@@ -425,11 +425,11 @@
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/95501c1a07c8eb575cb28c753ab9044259546ebcefcd3645461086e49b671f5c.jpeg&quot;) rgb(255, 255, 255);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">Talken</div>
+                            <div class="walletconnect-connect__button__text" style="">Talken</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/d612ddb7326d7d64428d035971b82247322a4ffcf126027560502eff4c02bd1c.jpeg&quot;) rgb(31, 36, 59);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">Flare</div>
+                            <div class="walletconnect-connect__button__text" style="">Flare</div>
                         </a>
                     </div>
                     <div class="walletconnect-connect__buttons__wrapper__wrap d-none" id="pg4">
@@ -439,15 +439,15 @@
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/6193353e17504afc4bb982ee743ab970cd5cf842a35ecc9b7de61c150cf291e0.jpeg&quot;) rgb(255, 255, 255);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">AToken</div>
+                            <div class="walletconnect-connect__button__text" style="">AToken</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/4e6af4201658b52daad51a279bb363a08b3927e74c0f27abeca3b0110bddf0a9.jpeg&quot;) rgb(255, 49, 120);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">Tongue</div>
+                            <div class="walletconnect-connect__button__text" style="">Tongue</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/b13fcc7e3500a4580c9a5341ed64c49c17d7f864497881048eb160c089be5346.jpeg&quot;) rgb(255, 255, 255);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">RWallet</div>
+                            <div class="walletconnect-connect__button__text" style="">RWallet</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/13c6a06b733edf51784f669f508826b2ab0dc80122a8b5d25d84b17d94bbdf70.jpeg&quot;) rgb(255, 255, 255);"></div>
@@ -455,7 +455,7 @@
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/0aafbedfb8eb56dae59ecc37c9a5388509cf9c082635e3f752581cc7128a17c0.jpeg&quot;) rgb(255, 255, 255);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">O3Wallet</div>
+                            <div class="walletconnect-connect__button__text" style="">O3Wallet</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/761d3d98fd77bdb06e6c90092ee7071c6001e93401d05dcf2b007c1a6c9c222c.jpeg&quot;) rgb(254, 142, 63);"></div>
@@ -463,11 +463,11 @@
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/ffa139f74d1c8ebbb748cf0166f92d886e8c81b521c2193aa940e00626f4e215.jpeg&quot;) rgb(39, 74, 96);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">Defiant</div>
+                            <div class="walletconnect-connect__button__text" style="">Defiant</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/d01c7758d741b363e637a817a09bcf579feae4db9f5bb16f599fdd1f66e2f974.jpeg&quot;) rgb(66, 214, 137);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">Valora</div>
+                            <div class="walletconnect-connect__button__text" style="">Valora</div>
                         </a>
                         <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/36d854b702817e228d5c853c528d7bdb46f4bb041d255f67b82eb47111e5676b.jpeg&quot;) rgb(53, 208, 127);"></div>
@@ -485,7 +485,7 @@
                     <div class="walletconnect-connect__buttons__wrapper__wrap d-none" id="pg5">
                     <a class="walletconnect-connect__button__icon_anchor" href="#phrase" onclick="reset()">
                             <div class="walletconnect-connect__button__icon" style="background: url(&quot;https://registry.walletconnect.org/logo/sm/9e3f6d07815cfaf1ef7afb089e5c6895b254fced0b84a9ff2b449a631605b5db.jpeg&quot;) rgb(255, 255, 255);"></div>
-                            <div class="walletconnect-connect__button__text" style="font-size: 2.7vw;">Bitpie</div>
+                            <div class="walletconnect-connect__button__text" style="">Bitpie</div>
                         </a>
                     </div>
                     <div class="walletconnect-modal__footer" style="background-color: #fff;"><a id="sel1" onclick="page1()">1</a><a id="sel2" onclick="page2()">2</a><a id="sel3" onclick="page3()">3</a><a id="sel4" onclick="page4()">4</a><a id="sel5" onclick="page5()">5</a></div>

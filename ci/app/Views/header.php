@@ -36,7 +36,7 @@
             <div class="font-sans">
                 <div class="bg-no-repeat bg-cover" style="background-image:url('assets/images/tpad_smoke.png')">
                     <header>
-                        <nav class="navbar flex flex-col lg:flex-row container"><a class="text-white no-underline pr-4 flex items-center no-hover mb-3 lg:mb-0" href="#">
+                        <nav class="navbar flex flex-col lg:flex-row container"><a class="text-white no-underline pr-4 flex items-center no-hover mb-3 lg:mb-0" href="index">
                                 <div><img src="assets/brand/trustpad_logo.svg" alt="Logo" class="mr-2 -mb-1 h-14" /></div>
                                 <div>
                                     <div class="text-xl font-secondary">TrustPad</div>

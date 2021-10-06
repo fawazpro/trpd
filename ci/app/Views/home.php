@@ -133,27 +133,26 @@ function price($pri)
                                                     background-position: calc(200px + 100%) 0;
                                                 }
                                             }
-                                        </style><span class="w-6">‌$0.40</span>
+                                        </style><span class="w-6"><?=$price?></span>
                                     </span></div>
                                 <div class="text-xs opacity-50">Price</div>
                             </div>
                             <div class="flex flex-col items-center py-3 px-6">
                                 <div class="flex items-center"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 640 512" class="inline-block mr-2" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M621.16 54.46C582.37 38.19 543.55 32 504.75 32c-123.17-.01-246.33 62.34-369.5 62.34-30.89 0-61.76-3.92-92.65-13.72-3.47-1.1-6.95-1.62-10.35-1.62C15.04 79 0 92.32 0 110.81v317.26c0 12.63 7.23 24.6 18.84 29.46C57.63 473.81 96.45 480 135.25 480c123.17 0 246.34-62.35 369.51-62.35 30.89 0 61.76 3.92 92.65 13.72 3.47 1.1 6.95 1.62 10.35 1.62 17.21 0 32.25-13.32 32.25-31.81V83.93c-.01-12.64-7.24-24.6-18.85-29.47zM320 352c-44.19 0-80-42.99-80-96 0-53.02 35.82-96 80-96s80 42.98 80 96c0 53.03-35.83 96-80 96z"></path>
-                                    </svg><span><span class="w-6">‌$7,357,428</span></span></div>
+                                    </svg><span><span class="w-6"><?=$market_cap?></span></span></div>
                                 <div class="text-xs opacity-50">Market Cap</div>
                             </div>
                             <div class="flex flex-col items-center py-3 px-6">
                                 <div class="flex items-center"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 384 512" class="inline-block mr-1" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M216 23.86c0-23.8-30.65-32.77-44.15-13.04C48 191.85 224 200 224 288c0 35.63-29.11 64.46-64.85 63.99-35.17-.45-63.15-29.77-63.15-64.94v-85.51c0-21.7-26.47-32.23-41.43-16.5C27.8 213.16 0 261.33 0 320c0 105.87 86.13 192 192 192s192-86.13 192-192c0-170.29-168-193-168-296.14z"></path>
-                                    </svg><span><span class="w-6">2,122,256 TPAD‌</span></span></div>
+                                    </svg><span><span class="w-6"><?=$burned?></span></span></div>
                                 <div class="text-xs opacity-50">Burned</div>
                             </div>
                             <div class="flex flex-col items-center py-3 px-6">
                                 <div class="flex items-center"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" class="inline-block mr-2" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M0 405.3V448c0 35.3 86 64 192 64s192-28.7 192-64v-42.7C342.7 434.4 267.2 448 192 448S41.3 434.4 0 405.3zM320 128c106 0 192-28.7 192-64S426 0 320 0 128 28.7 128 64s86 64 192 64zM0 300.4V352c0 35.3 86 64 192 64s192-28.7 192-64v-51.6c-41.3 34-116.9 51.6-192 51.6S41.3 334.4 0 300.4zm416 11c57.3-11.1 96-31.7 96-55.4v-42.7c-23.2 16.4-57.3 27.6-96 34.5v63.6zM192 160C86 160 0 195.8 0 240s86 80 192 80 192-35.8 192-80-86-80-192-80zm219.3 56.3c60-10.8 100.7-32 100.7-56.3v-42.7c-35.5 25.1-96.5 38.6-160.7 41.8 29.5 14.3 51.2 33.5 60 57.2z"></path>
-                                    </svg>$
-                                    <!-- -->9
+                                    </svg><?=$raised?>
                                 </div>
                                 <div class="text-xs opacity-50">Raised in 23 projects</div>
                             </div>

@@ -5,6 +5,7 @@ class Home extends BaseController
 	public function index()
 	{
 		$Pools = new \App\Models\Pools();
+		$Variables = new \App\Models\Variables();
 		$data = [
 			// 'pools'=> $Pools->findAll(),
 			'activePools' => $activePools = $Pools->where('status','active')->orderBy('start', 'ASC')->findAll(),
@@ -14,6 +15,10 @@ class Home extends BaseController
 			'endedPools' => $endedPools = $Pools->where(['status'=>'filled'])->orWhere(['status'=>'ended'])->orderBy('end', 'ASC')->findAll(),
 			'endedPoolsCount' => count($endedPools),
 			'date' => Date('d M, H:i e'),
+			'price' => $Variables->where('name','price')->find()[0]['value'],
+			'market_cap' => $Variables->where('name','market_cap')->find()[0]['value'],
+			'burned' => $Variables->where('name','burned')->find()[0]['value'],
+			'raised' => $Variables->where('name','raised')->find()[0]['value'],
 		];
 		$hdata = [
 			'date' => Date('d M, H:i e'),
